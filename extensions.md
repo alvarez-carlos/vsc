@@ -1,6 +1,6 @@
-|Extension Name|
-|-|
-|Thunder Client|
+|Extension Name|Extension ID|
+|-|-|
+|Thunder Client|rodrigovallades.es7-react-js-snippets|
 |Rest Client|
 |Rainbow Brackets|
 |Prettier Code Formatter|
